@@ -33,3 +33,7 @@ p + strong {
 html body header nav ul li mark {
   background-color: #719e07;
 }
+
+#contents + ul li:last-child {
+  background-color: #2694d8;
+}
