@@ -29,3 +29,7 @@ nav ul {
 p + strong {
   color: #fff;
 }
+
+html body header nav ul li mark {
+  background-color: #719e07;
+}
