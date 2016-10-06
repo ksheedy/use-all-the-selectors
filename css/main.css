@@ -37,3 +37,15 @@ html body header nav ul li mark {
 #contents + ul li:last-child {
   background-color: #2694d8;
 }
+
+ol li:first-child {
+  color: #719e47;
+}
+
+ol li:last-child {
+  color: #2aa198;
+}
+
+.types + li:nth-child(even) {
+  background-color: #657ba3;
+}
